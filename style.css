@@ -126,8 +126,9 @@ embed{
  [name=Jorn‪MadeThis],[name=JornM‪adeThis]{
     text-align: center
 }
- [name=Jorn‪MadeThis],[name=JornM‪adeThis]{
-    background:url(http://i.imgur.com/1cDvbf7.png)
+ <!-- fundal black left side column -->
+[name=Jorn‪MadeThis],[name=JornM‪adeThis]{
+    background:url(https://i.postimg.cc/9QxSLjH4/160977405459980309.gif)
 }
  [name=Jorn‪MadeThis],[name=JornM‪adeThis]{
     font-family: futora, small-caps, helvetica, arial
@@ -241,7 +242,7 @@ embed{
     border: 1px solid
 }
  [name=mImg]{
-    border-image: url(http://imageshack.com/a/img922/815/Ouf9Bp.png) 1
+    border-image: url(https://i.postimg.cc/9QxSLjH4/160977405459980309.gif) 1
 }
  [name=mImg]{
     box-sizing: border-box
