@@ -1,7 +1,4 @@
-{
-    background:#0;
-     background: #000001
-}
+
 *{
     font-size:12px
 }
@@ -128,7 +125,7 @@ embed{
 }
  <!-- fundal black left side column -->
 [name=Jorn‪MadeThis],[name=JornM‪adeThis]{
-    background:url(https://i.postimg.cc/9QxSLjH4/160977405459980309.gif)
+    background-color: #111111;
 }
  [name=Jorn‪MadeThis],[name=JornM‪adeThis]{
     font-family: futora, small-caps, helvetica, arial
@@ -242,16 +239,16 @@ embed{
     border: 1px solid
 }
  [name=mImg]{
-    border-image: url(https://i.postimg.cc/9QxSLjH4/160977405459980309.gif) 1
+     background-color: #111111;
 }
  [name=mImg]{
     box-sizing: border-box
 }
  [name=mImg]{
-    background-color:#000
+      background-color: #111111;
 }
 #xatstyme{
-    background:url(https://i.postimg.cc/9QxSLjH4/160977405459980309.gif)
+     background-color: #111111;
 }
 #xatstyme{
     top:0
